@@ -12,7 +12,7 @@ Section:Item("label", "Owned by Vauz-Softworks")
 Section:Item("label", "Mostly Universal")
 Section:Item("label", "Educational Purposes")
 Section:Item("label", "  ")
-Section:Item("label", "               Version 1.0.0")
+Section:Item("label", "               Version 1.2.0")
 
 local Tab = Main:Tab("Uriel Aimlab")
 local aim = Tab:Section("Aimlab")
