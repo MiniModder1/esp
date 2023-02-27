@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 setclipboard("https://discord.gg/vmGnjzuZu8")
 
 local Window = Rayfield:CreateWindow({
-	Name = "URIEL | v1.2.1",
+	Name = "URIEL | v1.2.2",
 	LoadingTitle = "Owned by Vauz Softworks",
 	LoadingSubtitle = "by vauz#7376",
 	ConfigurationSaving = {
@@ -12,7 +12,7 @@ local Window = Rayfield:CreateWindow({
 	},
 	KeySystem = true, -- Set this to true to use their key system
 	KeySettings = {
-		Title = "URIEL | v1.2.1",
+		Title = "URIEL | v1.2.2",
 		Subtitle = "Vauz Softworks Key System",
 		Note = "discord.gg/vmGnjzuZu8  || Join to get key. (Copied)",
 		SaveKey = false,
@@ -32,7 +32,7 @@ local Label = Tab:CreateLabel("Script is universal and will likely remain that w
 local Label = Tab:CreateLabel("Remember this is for Educational Purposes and to use at your own risk!")
 
 local Section = Tab:CreateSection("Anti-cheat Information")
-local Label = Tab:CreateLabel("42 Anti-cheats Bypassed so far, will be more in the future")
+local Label = Tab:CreateLabel("45 Anti-cheats Bypassed so far, will be more in the future")
 local Button = Tab:CreateButton({
 	Name = "Enable Anti-cheat (Will Auto Recognisde Game)",
 	Callback = function()
@@ -49,8 +49,8 @@ local Button = Tab:CreateButton({
 		getgenv().SecureMode = true
 		print("It may have worked...")
 		wait(1)
-		print("Load time --> ERRORUPDATINGms <--")
-		print("Error:Line 45-58")
+		print("Load time --> 127ms <--")
+		print("Wow it worked, no error")
 	end,
 })
 
