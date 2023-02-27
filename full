@@ -16,7 +16,7 @@ local Window = Rayfield:CreateWindow({
 		Subtitle = "Vauz Softworks Key System",
 		Note = "discord.gg/vmGnjzuZu8  || Join to get key. (Copied)",
 		SaveKey = false,
-		Key = "vs.u.2gazsh2g"
+		Key = "urielkey_*bqkv&va;l"
 	}
 }) 
 
