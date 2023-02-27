@@ -1,6 +1,6 @@
 getgenv().Config = {
-    FakeName = "~~~", -- Change This to what ever you want
-    FakeDisplayName = "vauz_softworks"  -- Change This to what ever you want
+    FakeName = "./.", -- Change This to what ever you want
+    FakeDisplayName = "./."  -- Change This to what ever you want
 }
 -- Recommended to execute this once or it will break
 -- Crimson#5957
