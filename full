@@ -1,7 +1,8 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+setclipboard("https://discord.gg/vmGnjzuZu8")
 
 local Window = Rayfield:CreateWindow({
-	Name = "URIEL | v1.2.0",
+	Name = "URIEL | v1.2.1",
 	LoadingTitle = "Owned by Vauz Softworks",
 	LoadingSubtitle = "by vauz#7376",
 	ConfigurationSaving = {
@@ -11,11 +12,11 @@ local Window = Rayfield:CreateWindow({
 	},
 	KeySystem = true, -- Set this to true to use their key system
 	KeySettings = {
-		Title = "URIEL -- KeyIs, 123",
+		Title = "URIEL | v1.2.1",
 		Subtitle = "Vauz Softworks Key System",
-		Note = "bio.link/vauzsoftworks           Visit our website for more scripts.",
+		Note = "https://discord.gg/vmGnjzuZu8  || Join for key.",
 		SaveKey = false,
-		Key = "123"
+		Key = "vs.u.2gazsh2g"
 	}
 }) 
 
