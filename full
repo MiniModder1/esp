@@ -13,7 +13,7 @@ local Window = Rayfield:CreateWindow({
 	},
 	KeySystem = true, -- Set this to true to use their key system
 	KeySettings = {
-		Title = "URIEL | v1.2.5",
+		Title = "URIEL | v1.2.6",
 		Subtitle = "Vauz Softworks Key System",
 		Note = "discord.gg/vmGnjzuZu8  || Join to get key. (Copied)",
 		SaveKey = false,
