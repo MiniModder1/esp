@@ -11,7 +11,7 @@ local Window = Rayfield:CreateWindow({
 		FolderName = "URIEL-UI-Saves",
 		FileName = "uriel"
 	},
-	KeySystem = true, -- Set this to true to use their key system
+	KeySystem = false, -- Set this to true to use their key system
 	KeySettings = {
 		Title = "URIEL | v1.2.6",
 		Subtitle = "Vauz Softworks Key System",
